@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\bin\Debug\GNB.Bussiness.Application.DTOs.dll
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\bin\Debug\GNB.Bussiness.Application.DTOs.pdb
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\obj\Debug\GNB.Bussiness.Application.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\obj\Debug\GNB.Bussiness.Application.DTOs.dll
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\obj\Debug\GNB.Bussiness.Application.DTOs.pdb
+C:\Users\Usuario\source\repos\GNB.Bussiness.Application.DTOs\obj\Debug\GNB.Bussiness.Application.DTOs.csproj.AssemblyReference.cache
